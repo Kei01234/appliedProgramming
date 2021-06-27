@@ -1,7 +1,7 @@
 # 岐阜大学プログラミング応用期末テスト過去問の回答
-2017年以降の岐阜大学プログラミング応用期末テスト過去問の回答コードを公開します。[寺田和憲](https://www1.gifu-u.ac.jp/~g_ai/researchers/Kazunori_Terada/home.html)教授の授業です。回答に不備があった場合は私にメール(k.130.email@gmail.com)か[プルリクエスト](https://github.com/Kei01234/appliedProgramming/pulls)を送ってください。
+2017年以降の岐阜大学プログラミング応用期末テスト過去問の解答例を公開します。[寺田和憲](https://www1.gifu-u.ac.jp/~g_ai/researchers/Kazunori_Terada/home.html)教授の授業です。解答に不備があった場合は私にメール(k.130.email@gmail.com)か[プルリクエスト](https://github.com/Kei01234/appliedProgramming/pulls)を送ってください。
 
 ## 注意事項
 - コードの実行は自己責任でお願いします。
 - コードテストはしましたが私のコードが間違っている可能性もあることを気に留めておいてください。
-- 私の回答はあくまで回答例であって最適解であるとは限りません。
+- 私の解答はあくまで解答例であって最適解であるとは限りません。
