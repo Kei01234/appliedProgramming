@@ -1,4 +1,4 @@
-# 岐阜大学プログラミング応用期末テスト過去問の回答
+# 岐阜大学プログラミング応用期末テスト過去問の解答
 2017年以降の岐阜大学プログラミング応用期末テスト過去問の解答例を公開します。[寺田和憲](https://www1.gifu-u.ac.jp/~g_ai/researchers/Kazunori_Terada/home.html)教授の授業です。解答に不備があった場合は私にメール(k.130.email@gmail.com)か[プルリクエスト](https://github.com/Kei01234/appliedProgramming/pulls)を送ってください。
 
 ## 注意事項
