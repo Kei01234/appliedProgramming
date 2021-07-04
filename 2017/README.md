@@ -36,4 +36,12 @@
 
 3. `0`
 4. `1`
-5. `node`
+5. `node -> next`
+
+(c)
+
+6. node
+7. node
+8. node -> next
+
+## 問4
