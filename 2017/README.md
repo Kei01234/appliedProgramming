@@ -41,8 +41,8 @@
 (c)
 
 6. node
-7. node
-8. node -> next
+7. n
+8. p -> next
 
 ## 問4
 (a)
