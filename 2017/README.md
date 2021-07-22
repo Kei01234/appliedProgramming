@@ -1,4 +1,4 @@
-# 2017年度プログラミング応用期末テスト回答
+# 2017年度プログラミング応用期末テスト回答例
 
 ## 問1
 1. アドレス
@@ -40,13 +40,24 @@
 
 (c)
 
-6. node
-7. n
-8. p -> next
+6. `node`
+7. `n`
+8. `p -> next`
 
 ## 問4
 (a)
+```C
+struct HDR1 {
+    int hdr1_size;
+    char file_name[20];
+    unsigned short reserve[12];
+    int hdr2_size;
+    int file_size;
+};
+```
 
-(b)
+(b) SAGIYAMA
 
 (c)
+
+(d)
